@@ -1,0 +1,297 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"text",
+				"text-decoration-color\tproperty"
+			],
+			[
+				"background",
+				"background-color\tproperty"
+			],
+			[
+				"img",
+				"border-image-width\tproperty"
+			],
+			[
+				"wid",
+				"max-width\tproperty"
+			],
+			[
+				"border",
+				"border-color\tproperty"
+			],
+			[
+				"text-ali",
+				"text-align\tproperty"
+			],
+			[
+				"margin",
+				"margin-top\tproperty"
+			],
+			[
+				"justif",
+				"justify\ttext-align"
+			],
+			[
+				"border-col",
+				"border-color\tproperty"
+			],
+			[
+				"font-",
+				"font-size\tproperty"
+			],
+			[
+				"tex",
+				"text-align\tproperty"
+			],
+			[
+				"cs",
+				"css"
+			],
+			[
+				"hef",
+				"href\tAttr"
+			],
+			[
+				"hr",
+				"href\tAttr"
+			],
+			[
+				"color",
+				"color\tproperty"
+			],
+			[
+				"sty",
+				"border-style\tproperty"
+			],
+			[
+				"padd",
+				"padding-left\tproperty"
+			],
+			[
+				"ba",
+				"background-repeat\tproperty"
+			],
+			[
+				"back",
+				"background-image\tproperty"
+			],
+			[
+				"text-",
+				"text-align\tproperty"
+			],
+			[
+				"witdh",
+				"width\tproperty"
+			],
+			[
+				"repeat",
+				"background-repeat\tproperty"
+			],
+			[
+				"met",
+				"meta\tTag"
+			],
+			[
+				"p",
+				"p\tTag"
+			],
+			[
+				"tr",
+				"tr\tTag"
+			],
+			[
+				"th",
+				"th\tTag"
+			],
+			[
+				"hea",
+				"head\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/AnaCarolina/Desktop/Sublime Text/Barros Custom/index.hyml",
+		"/C/Users/AnaCarolina/Desktop/Sublime Text/CSS3/Projeto CSS3 Intermediário/Elementos Flutuantes/estilo.css",
+		"/C/Users/AnaCarolina/Desktop/Sublime Text/CSS3/Projeto CSS3 Intermediário/Elementos Flutuantes/index.html",
+		"/C/Users/AnaCarolina/Desktop/Sublime Text/CSS3/Projeto CSS3 Intermediário/index.html",
+		"/C/Users/AnaCarolina/Desktop/Sublime Text/CSS3/Projeto CSS3 Intermediário/estilo.css",
+		"/C/Users/AnaCarolina/Desktop/Sublime Text/CSS3/Projeto CSS3/Anna Bella/estilo.css",
+		"/C/Users/AnaCarolina/Desktop/Sublime Text/CSS3/Projeto CSS3/Anna Bella/contato.html",
+		"/C/Users/AnaCarolina/Desktop/Sublime Text/CSS3/Projeto CSS3/Anna Bella/imagens/fundo.png",
+		"/C/Users/AnaCarolina/Desktop/Sublime Text/CSS3/Projeto Ana Bela/Imagens/capa.png",
+		"/C/Users/AnaCarolina/Desktop/Sublime Text/Meu projeto/index.html",
+		"/C/Users/AnaCarolina/Desktop/Sublime Text/CSS3/Projeto Ana Bela/estilo.css",
+		"/C/Users/AnaCarolina/Desktop/Sublime Text/Meu projeto/estilo.css",
+		"/C/Users/AnaCarolina/Desktop/Sublime Text/CSS3/Projeto Ana Bela/index.html",
+		"/C/Users/AnaCarolina/Desktop/Sublime Text/CSS3/Projeto Ana Bela/biografia.html",
+		"/C/Users/AnaCarolina/Desktop/Sublime Text/CSS3/Projeto Ana Bela/contato.html",
+		"/C/Users/AnaCarolina/Desktop/Sublime Text/CSS3/Projeto Ana Bela/campanhas.html",
+		"/C/Users/AnaCarolina/Desktop/Sublime Text/CSS3/Projeto Ana Bela/Imagens/fundo.png",
+		"/C/Users/AnaCarolina/Desktop/Sublime Text/CSS3/Projeto CSS3/divs-span.html",
+		"/C/Users/AnaCarolina/Desktop/Sublime Text/CSS3/Projeto CSS3/Classes_ids.html",
+		"/C/Users/AnaCarolina/Desktop/Sublime Text/CSS3/Projeto CSS3/Inline Style.html",
+		"/C/Users/AnaCarolina/Desktop/Sublime Text/Projeto final HTML/contato.html",
+		"/C/Users/AnaCarolina/Desktop/Sublime Text/1o projeto/index.html",
+		"/C/Users/AnaCarolina/Desktop/Sublime Text/1o projeto/Projeto.html",
+		"/C/Users/AnaCarolina/Desktop/Projeto Aula/index.html",
+		"/C/Users/AnaCarolina/Desktop/Projeto Aula/css/estilo.css"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 43.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 159.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
